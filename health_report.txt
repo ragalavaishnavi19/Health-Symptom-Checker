@@ -1,0 +1,25 @@
+==================================================
+PATIENT DETAILS
+==================================================
+
+Name         : abc
+Age          : 19
+Gender       : female
+Date         : 03-11-2026
+Time         : 09:55:02
+
+==================================================
+AI HEALTH SYMPTOM CHECKER REPORT
+==================================================
+
+Symptoms Entered:
+- Fever
+- Cough
+- Fatigue
+
+Predicted Disease : Cold
+Confidence Score  : 95%
+
+AI Recommendation
+---------------------------
+Stay warm, drink warm fluids and take proper rest.
